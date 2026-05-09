@@ -1,6 +1,6 @@
 # 🏛️ TREBIZOND 1461: The Sultan's Vision
 
-![Sultan's Vision Map 1461](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/sultans_vision_map_1461_1778310738629.png)
+![TREBIZOND 1461 Banner](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/trebizond_1461_cinematic_banner_1778318479874.png)
 
 ## 👑 II. Mehmed: Cihan İmparatoru ve Filozof Hakan
 
@@ -22,6 +22,8 @@ Fatih, sadece kılıç sallayan bir hükümdar değil; Latince, Grekçe, Arapça
 ---
 
 ## ⚔️ Askeri Harekat: İmkansızın Fethi
+
+![Sultan's Vision Map 1461](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/sultans_vision_map_1461_1778310738629.png)
 
 ### 🛰️ Psikolojik Harp ve İstihbarat Disiplini
 Fatih, seferin rotasını son ana kadar saklamıştır. Akkoyunlu Uzun Hasan ve Trabzon İmparatoru David Komnenos'u diplomatik manevralarla oyalamış, orduyu kimsenin beklemediği bir anda Trabzon kapılarına dikmiştir.
@@ -57,6 +59,11 @@ Gelibolu'dan kalkan **300 gemilik dev donanma**, Karadeniz'in hırçın suların
 │   ├── Trabzon_Ulemasi.md        # Şehre getirilen bilim insanları ve medreseler
 │   ├── Trabzon_Kanunnameleri.md  # Bölgeye özel çıkarılan ilk Osmanlı yasaları
 │   └── Sosyal_Dokunun_Degisimi.md # Nüfusun taksimi ve Yeniçeri alımı [YENİ]
+├── 📂 04_Sahsiyetler/
+│   ├── Fatih_Sultan_Mehmet.md     # Cihan Hâkimi'nin vizyonu ve Zigana yürüyüşü
+│   ├── David_Komnenos.md         # Son Trabzon İmparatoru'nun akıbeti
+│   ├── Uzun_Hasan.md             # Akkoyunlu dengesi ve Anadolu rekabeti
+│   └── Georgios_Amiroutzes.md    # Filozof, coğrafyacı ve Fatih'in danışmanı
 └── README.md
 ```
 
