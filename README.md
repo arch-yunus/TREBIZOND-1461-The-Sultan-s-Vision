@@ -1,6 +1,6 @@
 # 🏛️ TREBIZOND 1461: The Sultan's Vision
 
-![TREBIZOND 1461 Banner](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/trebizond_1461_cinematic_banner_1778318479874.png)
+![TREBIZOND 1461 Banner](assets/banner.png)
 
 ## 👑 II. Mehmed: Cihan İmparatoru ve Filozof Hakan
 
@@ -23,7 +23,7 @@ Fatih, sadece kılıç sallayan bir hükümdar değil; Latince, Grekçe, Arapça
 
 ## ⚔️ Askeri Harekat: İmkansızın Fethi
 
-![Sultan's Vision Map 1461](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/sultans_vision_map_1461_1778310738629.png)
+![Sultan's Vision Map 1461](assets/map.png)
 
 ### 🛰️ Psikolojik Harp ve İstihbarat Disiplini
 Fatih, seferin rotasını son ana kadar saklamıştır. Akkoyunlu Uzun Hasan ve Trabzon İmparatoru David Komnenos'u diplomatik manevralarla oyalamış, orduyu kimsenin beklemediği bir anda Trabzon kapılarına dikmiştir.

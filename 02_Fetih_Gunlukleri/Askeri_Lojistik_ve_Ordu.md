@@ -1,6 +1,6 @@
 # Askeri Lojistik ve Ordu Yapısı (1461)
 
-![Trabzon Kuşatması](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/siege_of_trebizond_1461_1778312248138.png)
+![Trabzon Kuşatması](../assets/siege.png)
 
 Trabzon seferi, Osmanlı askeri tarihinin en büyük kara-deniz koordinasyonlu harekatlarından biridir. Ordu ve donanmanın devasa ölçeği, Fatih'in bu fethe verdiği önemi gösterir.
 

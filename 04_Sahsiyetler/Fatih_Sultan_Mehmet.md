@@ -1,6 +1,6 @@
 # Fatih Sultan Mehmet: Cihan Hâkimi ve Stratejist
 
-![Fatih Sultan Mehmet Trabzon](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/fatih_trabzon_campaign_1778311804663.png)
+![Fatih Sultan Mehmet Trabzon](../assets/fatih.png)
 
 1461 yılındaki Trabzon seferi, II. Mehmed'in sadece bir fatih değil, aynı zamanda fiziksel zorluklara göğüs geren bir "Gazi" ve rakipsiz bir stratejist olduğunun kanıtıdır.
 
