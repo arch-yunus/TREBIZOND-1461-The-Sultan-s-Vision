@@ -65,6 +65,11 @@ Fetihten sonra Fatih, Trabzonlu filozof ve coğrafyacı **Georgios Amiroutzes** 
 │   ├── Fatih_Vakfiyeleri.md      # Şehrin ihyası için kurulan ilk vakıflar
 │   ├── Trabzon_Ulemasi.md        # Şehre getirilen bilim insanları ve medreseler
 │   └── Trabzon_Kanunnameleri.md  # Bölgeye özel çıkarılan ilk Osmanlı yasaları
+├── 📂 04_Sahsiyetler/
+│   ├── Fatih_Sultan_Mehmet.md     # Cihan Hâkimi'nin vizyonu ve Zigana yürüyüşü
+│   ├── David_Komnenos.md         # Son Trabzon İmparatoru'nun akıbeti
+│   ├── Uzun_Hasan.md             # Akkoyunlu dengesi ve Anadolu rekabeti
+│   └── Georgios_Amiroutzes.md    # Filozof, coğrafyacı ve Fatih'in danışmanı
 └── README.md
 ```
 
