@@ -48,14 +48,22 @@ Gelibolu'dan kalkan **300 gemilik dev donanma**, Karadeniz'in hırçın suların
 
 ### 📂 02_Fetih_Gunlukleri
 *   **[Zigana_Gecisi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/02_Fetih_Gunlukleri/Zigana_Gecisi.md):** 1461 yazındaki zorlu yürüyüşün detayları.
+*   **[Askeri_Lojistik_ve_Ordu.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/02_Fetih_Gunlukleri/Askeri_Lojistik_ve_Ordu.md):** Ordu mevcudu ve lojistik harikası.
 *   **[Kusatma_Teknolojisi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/02_Fetih_Gunlukleri/Kusatma_Teknolojisi.md):** Surları döven özel döküm toplar ve deniz ablukası.
 *   **[Teslim_Sartnamesi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/02_Fetih_Gunlukleri/Teslim_Sartnamesi.md):** 15 Ağustos 1461: David Komnenos ile son görüşme.
 
 ### 📂 03_Kulturel_Miras
 *   **[Ayasofya_Camii.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Ayasofya_Camii.md):** Mimarinin dönüşümü ve ilk Cuma namazı.
 *   **[Fatih_Vakfiyeleri.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Fatih_Vakfiyeleri.md):** Şehrin ihyası için kurulan ilk vakıflar.
-*   **[Trabzon_Ulemasi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Trabzon_Ulemasi.md):** Scholarly and scientific enrichment.
-*   **[Trabzon_Kanunnameleri.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Trabzon_Kanunnameleri.md):** Analysis of the legal codes issued for the region to maintain order and economic stability.
+*   **[Trabzon_Ulemasi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Trabzon_Ulemasi.md):** Şehre getirilen bilim insanları ve medreseler.
+*   **[Trabzon_Kanunnameleri.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Trabzon_Kanunnameleri.md):** Bölgeye özel çıkarılan ilk Osmanlı yasaları.
+*   **[Sosyal_Dokunun_Degisimi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Sosyal_Dokunun_Degisimi.md):** Fetih sonrası demografik dönüşüm ve iskân politikası.
+
+### 📂 04_Sahsiyetler
+*   **[Fatih_Sultan_Mehmet.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/04_Sahsiyetler/Fatih_Sultan_Mehmet.md):** Cihan Hâkimi'nin 1461 vizyonu.
+*   **[David_Komnenos.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/04_Sahsiyetler/David_Komnenos.md):** Trabzon'un son imparatoru.
+*   **[Uzun_Hasan.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/04_Sahsiyetler/Uzun_Hasan.md):** Akkoyunlu dengesi ve Anadolu rekabeti.
+*   **[Georgios_Amiroutzes.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/04_Sahsiyetler/Georgios_Amiroutzes.md):** Filozof ve coğrafyacı danışman.
 
 ---
 
@@ -83,4 +91,12 @@ Gelibolu'dan kalkan **300 gemilik dev donanma**, Karadeniz'in hırçın suların
 
 ---
 
-**"İmkanın sınırını görmek için, imkansızı denemek lazım."** - Bu depo, o imkansızın nasıl başanıldığının bilimsel dökümantasyonudur.
+**"İmkanın sınırını görmek için, imkansızı denemek lazım."** - Bu depo, o imkansızın nasıl başarıldığının bilimsel dökümantasyonudur.
+
+---
+
+## 🤝 Katkıda Bulunma
+Akademik katkılarınız ve tarihi verilerle depoyu zenginleştirmek için bir `Pull Request` oluşturabilir veya `Issue` açabilirsiniz.
+
+## ⚖️ Lisans
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Tarihi veriler ve analizler açık kaynaklıdır.
