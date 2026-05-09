@@ -1,6 +1,6 @@
 # 🏛️ TREBIZOND 1461: The Sultan's Vision
 
-![Sultan's Vision Map 1461](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/sultans_vision_map_1461_1778310738629.png)
+![TREBIZOND 1461 Banner](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/repo_banner_1461_1778312118113.png)
 
 ## 👑 II. Mehmed: Cihan İmparatoru ve Filozof Hakan
 
@@ -33,6 +33,9 @@ Fatih; Latince, Grekçe, Arapça ve Farsça dahil 6 dil biliyordu. Kütüphanesi
 ## ⚔️ Askeri Strateji: Karadeniz Kıskacı
 
 ### ⛰️ Zigana Geçişi ve "Gaza" Ruhu
+
+![Sultan's Vision Map 1461](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/sultans_vision_map_1461_1778310738629.png)
+
 Fatih, ordusunu Bayburt-Maçka üzerinden, kimsenin beklemediği sarp dağ yollarından yürüttü. Padişah bizzat yaya olarak tırmanırken Sara Hatun'un *"Sultanım, ufacık Trabzon için bunca zahmet değer mi?"* sorusuna tarihe geçen cevabını verdi:
 > **"Ana! Bizim elimizde İslam kılıcı vardır. Eğer biz bu zahmeti ihtiyar etmesek, bize 'Gazi' demek yalan olur!"**
 
