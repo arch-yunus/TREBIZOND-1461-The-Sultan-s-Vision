@@ -1,6 +1,6 @@
 # 🏛️ TREBIZOND 1461: The Sultan's Vision
 
-![TREBIZOND 1461 Banner](assets/banner.png)
+![Sultan's Vision Map 1461](assets/map.png)
 
 ## 👑 II. Mehmed: Cihan İmparatoru ve Filozof Hakan
 
@@ -23,8 +23,6 @@ Fatih, sadece kılıç sallayan bir hükümdar değil; Latince, Grekçe, Arapça
 
 ## ⚔️ Askeri Harekat: İmkansızın Fethi
 
-![Sultan's Vision Map 1461](assets/map.png)
-
 ### 🛰️ Psikolojik Harp ve İstihbarat Disiplini
 Fatih, seferin rotasını son ana kadar saklamıştır. Akkoyunlu Uzun Hasan ve Trabzon İmparatoru David Komnenos'u diplomatik manevralarla oyalamış, orduyu kimsenin beklemediği bir anda Trabzon kapılarına dikmiştir.
 
@@ -42,30 +40,22 @@ Gelibolu'dan kalkan **300 gemilik dev donanma**, Karadeniz'in hırçın suların
 
 ## 📂 Depo Yapısı ve Bilgi Katmanları
 
-```text
-├── 📂 01_Fatih_Doktrini/
-│   ├── Kizil_Elma_Ulkusu.md      # Roma Mirası ve Cihan Hakimiyeti analizi
-│   ├── Askeri_Deha_Analizi.md     # Dağlık arazi savaşı ve mühendislik teknikleri
-│   ├── Sır_ve_Istihbarat.md      # Diplomatik manevralar ve Sara Hatun diyaloğu
-│   └── Lojistik_Harikasi.md      # Erzincan-Trabzon hattındaki stratejik ikmal
-├── 📂 02_Fetih_Gunlukleri/
-│   ├── Zigana_Gecisi.md          # 1461 yazındaki zorlu yürüyüşün detayları
-│   ├── Askeri_Lojistik_ve_Ordu.md # Ordu yapısı ve topçu lojistiği [YENİ]
-│   ├── Kusatma_Teknolojisi.md    # Surları döven özel döküm toplar ve deniz ablukası
-│   └── Teslim_Sartnamesi.md      # 15 Ağustos 1461: David Komnenos ile son görüşme
-├── 📂 03_Kulturel_Miras/
-│   ├── Ayasofya_Camii.md         # Mimarinin dönüşümü ve ilk Cuma namazı
-│   ├── Fatih_Vakfiyeleri.md      # Şehrin ihyası için kurulan ilk vakıflar
-│   ├── Trabzon_Ulemasi.md        # Şehre getirilen bilim insanları ve medreseler
-│   ├── Trabzon_Kanunnameleri.md  # Bölgeye özel çıkarılan ilk Osmanlı yasaları
-│   └── Sosyal_Dokunun_Degisimi.md # Nüfusun taksimi ve Yeniçeri alımı [YENİ]
-├── 📂 04_Sahsiyetler/
-│   ├── Fatih_Sultan_Mehmet.md     # Cihan Hâkimi'nin vizyonu ve Zigana yürüyüşü
-│   ├── David_Komnenos.md         # Son Trabzon İmparatoru'nun akıbeti
-│   ├── Uzun_Hasan.md             # Akkoyunlu dengesi ve Anadolu rekabeti
-│   └── Georgios_Amiroutzes.md    # Filozof, coğrafyacı ve Fatih'in danışmanı
-└── README.md
-```
+### 📂 01_Fatih_Doktrini
+*   **[Kizil_Elma_Ulkusu.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/01_Fatih_Doktrini/Kizil_Elma_Ulkusu.md):** Roma Mirası ve Cihan Hakimiyeti analizi.
+*   **[Askeri_Deha_Analizi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/01_Fatih_Doktrini/Askeri_Deha_Analizi.md):** Dağlık arazi savaşı ve mühendislik teknikleri.
+*   **[Sir_ve_Istihbarat.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/01_Fatih_Doktrini/Sir_ve_Istihbarat.md):** Diplomatik manevralar ve Sara Hatun diyaloğu.
+*   **[Lojistik_Harikasi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/01_Fatih_Doktrini/Lojistik_Harikasi.md):** Erzincan-Trabzon hattındaki stratejik ikmal.
+
+### 📂 02_Fetih_Gunlukleri
+*   **[Zigana_Gecisi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/02_Fetih_Gunlukleri/Zigana_Gecisi.md):** 1461 yazındaki zorlu yürüyüşün detayları.
+*   **[Kusatma_Teknolojisi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/02_Fetih_Gunlukleri/Kusatma_Teknolojisi.md):** Surları döven özel döküm toplar ve deniz ablukası.
+*   **[Teslim_Sartnamesi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/02_Fetih_Gunlukleri/Teslim_Sartnamesi.md):** 15 Ağustos 1461: David Komnenos ile son görüşme.
+
+### 📂 03_Kulturel_Miras
+*   **[Ayasofya_Camii.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Ayasofya_Camii.md):** Mimarinin dönüşümü ve ilk Cuma namazı.
+*   **[Fatih_Vakfiyeleri.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Fatih_Vakfiyeleri.md):** Şehrin ihyası için kurulan ilk vakıflar.
+*   **[Trabzon_Ulemasi.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Trabzon_Ulemasi.md):** Scholarly and scientific enrichment.
+*   **[Trabzon_Kanunnameleri.md](file:///g:/Diğer%20bilgisayarlar/Dizüstü%20Bilgisayarım/github%20repolarım/TREBIZOND-1461-The-Sultan-s-Vision/03_Kulturel_Miras/Trabzon_Kanunnameleri.md):** Analysis of the legal codes issued for the region to maintain order and economic stability.
 
 ---
 
