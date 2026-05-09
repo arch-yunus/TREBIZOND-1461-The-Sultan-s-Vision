@@ -1,53 +1,40 @@
 # 🏛️ TREBIZOND 1461: The Sultan's Vision
 
-![TREBIZOND 1461 Banner](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/repo_banner_1461_1778312118113.png)
+![Sultan's Vision Map 1461](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/sultans_vision_map_1461_1778310738629.png)
 
 ## 👑 II. Mehmed: Cihan İmparatoru ve Filozof Hakan
 
 Bu depo, Trabzon'un 1461 yılındaki fethini sadece askeri bir başarı olarak değil, **Fatih Sultan Mehmet**'in evrensel imparatorluk (Imperium Mundi) vizyonunun bir şahikası olarak ele alır. İstanbul'un fethiyle Doğu Roma'nın kalbini alan Fatih, Trabzon'u alarak bu kadim mirasın Anadolu'daki son kalesini de mülküne katmış, Karadeniz'i bir "Türk Gölü" (Mare Nostrum) haline getirmiştir.
+
+> **"Dünyada tek bir imparatorluk, tek bir iman ve tek bir hakimiyet olmalıdır. Bu birliği sağlamak için İstanbul'un sağ kolu olan Trabzon, gövdeyle birleşmelidir."**
+> — *Kritovulos, Tarih-i Sultan Mehmed Hân-ı Sâni*
 
 ---
 
 ## 📜 Fethin Entelektüel ve Siyasi Altyapısı
 
 ### 1. "Kayser-i Rum" Doktrini
-Fatih, kendisini Roma İmparatorlarının tek meşru varisi olarak görürdü. Trabzon'daki **Komnenos Hanedanı**, bu meşruiyete rakip olabilecek son Bizans kökenli güçtü. Fatih için Trabzon'un fethi, parçalanmış Roma mirasının İslam sancağı altında yeniden birleştirilmesiydi.
+Fatih, İstanbul'un fethinden sonra kendisini Roma İmparatorlarının tek meşru varisi olarak ilan etmiştir. Trabzon'daki Komnenos Hanedanı ise bu meşruiyete rakip olabilecek son Bizans kalıntısıydı. Fatih için Trabzon'un fethi, **Roma'nın birleşmesi** ve İslam sancağı altında yeniden yorumlanmasıdır.
 
 ### 2. Poliglot ve Filozof Bir Hakan
-Fatih; Latince, Grekçe, Arapça ve Farsça dahil 6 dil biliyordu. Kütüphanesinde Batlamyus'un coğrafya eserlerinden Homeros'un İlyada'sına kadar devasa bir koleksiyon vardı. Sefer sırasında yanında bulunan coğrafyacılar ve tarihçiler, fethin sadece askeri değil, bilimsel bir keşif olduğunu da kanıtlar.
+Fatih, sadece kılıç sallayan bir hükümdar değil; Latince, Grekçe, Arapça, Farsça, İbranice ve Keldanice bilen, kütüphanesinde Homeros'tan Batlamyus'a kadar binlerce eser bulunduran bir entelektüeldi. Trabzon seferi, onun haritacılık ve coğrafya bilgisinin bizzat sahaya yansımasıdır.
 
 ---
 
-## 📅 Tarihsel Kronoloji: 1461 Sefer Takvimi
+## ⚔️ Askeri Harekat: İmkansızın Fethi
 
-| Tarih / Dönem | Olay / Aşama | Detaylar |
-| :--- | :--- | :--- |
-| **1461 Baharı** | Edirne'den Hareket | Fatih, büyük bir orduyla Edirne'den yola çıkar. |
-| **Haziran 1461** | Sinop'un Fethi | Candaroğulları'ndan İsfendiyar Bey, direnmeden şehri teslim eder. |
-| **Temmuz 1461** | Bayburt ve Dağ Geçişleri | Ordu, Akkoyunlu sınırına dayanır; Sara Hatun ile barış görüşmeleri yapılır. |
-| **Ağustos 1461** | Kuşatmanın Başlaması | Donanma denizden, Fatih karadan Trabzon'u kıskaca alır. |
-| **15 Ağustos 1461** | **Büyük Fetih** | David Komnenos, şehrin anahtarlarını Fatih Sultan Mehmet'e teslim eder. |
+### 🛰️ Psikolojik Harp ve İstihbarat Disiplini
+Fatih, seferin rotasını son ana kadar saklamıştır. Akkoyunlu Uzun Hasan ve Trabzon İmparatoru David Komnenos'u diplomatik manevralarla oyalamış, orduyu kimsenin beklemediği bir anda Trabzon kapılarına dikmiştir.
 
----
+> **"Sırrıma sakalımın bir telinin vakıf olduğunu bilsem, onu kökünden keser atardım."**
 
-## ⚔️ Askeri Strateji: Karadeniz Kıskacı
+### ⛰️ "Gazâ Yolunda Meşakkat" (Meşhur Zigana Diyaloğu)
+Osmanlı ordusu, Bayburt-Aydıntepe-Maçka üzerinden geçit vermez dağları aşarken; Fatih bizzat yaya olarak ilerlemiştir. Akkoyunlu hükümdarının annesi Sara Hatun'un *"Oğul, ufacık Trabzon için tatlı canına bu kadar eziyet değer mi?"* sorusuna verdiği cevap, Osmanlı'nın **Gaza Ruhu**'nun özüdür:
 
-### ⛰️ Zigana Geçişi ve "Gaza" Ruhu
+> **"Ana! Bizim elimizde İslam kılıcı vardır. Eğer biz bu zahmeti ihtiyar etmesek, bize 'Gazi' demek yalan olur. Bizim davamız kuru bir toprak kavgası değil, i'la-yi kelimetullah davasıdır!"**
 
-![Sultan's Vision Map 1461](file:///C:/Users/bahat/.gemini/antigravity/brain/f4f4b437-b576-44c6-bd6b-0e8bd69c1ca8/sultans_vision_map_1461_1778310738629.png)
-
-Fatih, ordusunu Bayburt-Maçka üzerinden, kimsenin beklemediği sarp dağ yollarından yürüttü. Padişah bizzat yaya olarak tırmanırken Sara Hatun'un *"Sultanım, ufacık Trabzon için bunca zahmet değer mi?"* sorusuna tarihe geçen cevabını verdi:
-> **"Ana! Bizim elimizde İslam kılıcı vardır. Eğer biz bu zahmeti ihtiyar etmesek, bize 'Gazi' demek yalan olur!"**
-
-### ⛴️ 300 Gemilik Dev Donanma
-Gelibolu'dan kalkan 300 gemi, Karadeniz'in hırçın sularını aşarak Trabzon limanını tamamen kapattı. Bu, tarihin en büyük lojistik ve koordinasyon başarılarından biridir.
-
----
-
-## 🧠 Entelektüel Temas: Georgios Amiroutzes ve Fatih
-Fetihten sonra Fatih, Trabzonlu filozof ve coğrafyacı **Georgios Amiroutzes** ile yakın bir ilişki kurmuştur. 
-*   **Dialogus de Fide:** Fatih ve Amiroutzes arasında Hristiyanlık ve felsefe üzerine geçen derin tartışmalar bu eserde toplanmıştır.
-*   **Haritacılık:** Amiroutzes, padişahın isteği üzerine Batlamyus'un dünya haritasını Arapça ve Yunanca olarak yeniden düzenlemiş, Fatih'in dünya görüşüne bilimsel bir perspektif katmıştır.
+### ⛴️ Karadeniz Kıskacı ve Donanma Gücü
+Gelibolu'dan kalkan **300 gemilik dev donanma**, Karadeniz'in hırçın sularında limanı abluka altına almıştır. Bu, 15. yüzyılın en büyük deniz-kara koordinasyonlu harekatıdır.
 
 ---
 
@@ -61,24 +48,21 @@ Fetihten sonra Fatih, Trabzonlu filozof ve coğrafyacı **Georgios Amiroutzes** 
 │   └── Lojistik_Harikasi.md      # Erzincan-Trabzon hattındaki stratejik ikmal
 ├── 📂 02_Fetih_Gunlukleri/
 │   ├── Zigana_Gecisi.md          # 1461 yazındaki zorlu yürüyüşün detayları
+│   ├── Askeri_Lojistik_ve_Ordu.md # Ordu yapısı ve topçu lojistiği [YENİ]
 │   ├── Kusatma_Teknolojisi.md    # Surları döven özel döküm toplar ve deniz ablukası
 │   └── Teslim_Sartnamesi.md      # 15 Ağustos 1461: David Komnenos ile son görüşme
 ├── 📂 03_Kulturel_Miras/
 │   ├── Ayasofya_Camii.md         # Mimarinin dönüşümü ve ilk Cuma namazı
 │   ├── Fatih_Vakfiyeleri.md      # Şehrin ihyası için kurulan ilk vakıflar
 │   ├── Trabzon_Ulemasi.md        # Şehre getirilen bilim insanları ve medreseler
-│   └── Trabzon_Kanunnameleri.md  # Bölgeye özel çıkarılan ilk Osmanlı yasaları
-├── 📂 04_Sahsiyetler/
-│   ├── Fatih_Sultan_Mehmet.md     # Cihan Hâkimi'nin vizyonu ve Zigana yürüyüşü
-│   ├── David_Komnenos.md         # Son Trabzon İmparatoru'nun akıbeti
-│   ├── Uzun_Hasan.md             # Akkoyunlu dengesi ve Anadolu rekabeti
-│   └── Georgios_Amiroutzes.md    # Filozof, coğrafyacı ve Fatih'in danışmanı
+│   ├── Trabzon_Kanunnameleri.md  # Bölgeye özel çıkarılan ilk Osmanlı yasaları
+│   └── Sosyal_Dokunun_Degisimi.md # Nüfusun taksimi ve Yeniçeri alımı [YENİ]
 └── README.md
 ```
 
 ---
 
-## 🏛️ Araştırma Notları: Neden Bu Kadar Derinleğiyoruz?
+## 🏛️ Araştırma Notları: Neden 1461?
 
 1.  **Lojistik Devrim:** Fatih, ordusunu haritalarda dahi zor görünen patikalara sürerek Akkoyunlu ve Trabzon ittifakını fiziksel olarak bölmüştür.
 2.  **Diplomatik Deha:** Sara Hatun'u bir "misafir" gibi yanında gezdirerek Akkoyunlu ordusunun arkadan saldırmasını engellemiş, diplomasiyi askeri bir kalkan olarak kullanmıştır.
@@ -90,9 +74,9 @@ Fetihten sonra Fatih, Trabzonlu filozof ve coğrafyacı **Georgios Amiroutzes** 
 
 *   **Aşıkpaşazade**, *Tevârîh-i Âl-i Osmân*
 *   **Kritovulos**, *History of Mehmed the Conqueror*
-*   **Georgios Amiroutzes**, *Dialogus de Fide*
+*   **Tursun Bey**, *Târîh-i Ebü'l-Feth*
+*   **Franz Babinger**, *Fatih Sultan Mehmed ve Zamanı*
 *   **Halil İnalcık**, *Osmanlı İmparatorluğu: Klasik Çağ*
-*   **Heath W. Lowry**, *The Nature of the Early Ottoman State*
 
 ---
 
@@ -102,4 +86,4 @@ Fetihten sonra Fatih, Trabzonlu filozof ve coğrafyacı **Georgios Amiroutzes** 
 
 ---
 
-**"İmkanın sınırını görmek için, imkansızı denemek lazım."** - Bu depo, o imkansızın nasıl başarıldığının bilimsel dökümantasyonudur.
+**"İmkanın sınırını görmek için, imkansızı denemek lazım."** - Bu depo, o imkansızın nasıl başanıldığının bilimsel dökümantasyonudur.
